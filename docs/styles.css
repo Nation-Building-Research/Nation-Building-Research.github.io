@@ -1,0 +1,83 @@
+
+#home.about-hero .about-contents {
+  display: flex;
+  align-items: flex-start;  
+  padding-top: 0;
+  margin-top: 0;
+}
+
+#home.about-hero .about-contents h2 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#home.about-hero .about-contents > div {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+body {
+  background-color: #e8e8e8;
+  color: #444;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.navbar {
+  background-color: #1f003f;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar .nav-link {
+  color: #f8876c !important;
+}
+
+.navbar .quarto-navigation-tools svg {
+  fill: #f8876c !important;
+  color: #f8876c !important;
+}
+
+.navbar svg {
+  fill: #f8876c !important;
+  color: #f8876c !important;
+}
+
+.navbar a {
+  color: #f8876c;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.navbar a:hover {
+  color: #777;
+  background-color: transparent;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.navbar-toggler-icon {
+  background-color: #e8e8e8 
+}
+
+/* links */
+
+main a {
+  color: #1f003f;
+  text-decoration: underline; 
+}
+
+
+main a:hover {
+  color: #005; 
+  text-decoration: underline; 
+}
+
+main a:visited {
+  color: #800080;
+}
+
+main a:active {
+  color: #800080; 
+}
+
